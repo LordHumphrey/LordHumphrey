@@ -1,5 +1,17 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LordHumphrey)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, I'm [Humphrey!](https://github.com/LordHumphrey/) 👋
 
+<a href="https://twitter.com/HumphreyWoolley">
+  <img align="left" alt="ruki's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://t.me/LordHumphreyAppleby">
+  <img align="left" alt="ruki's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<br/>
+<br/>
+
+Hi, I'm Humphrey, a Web Developer 🚀 from China. I love Java & Spring forever.❤️ 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LordHumphrey)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LordHumphrey/LordHumphrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
